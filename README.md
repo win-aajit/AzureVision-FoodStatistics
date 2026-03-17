@@ -8,9 +8,9 @@ This project combines image classification and external nutrition APIs to transf
 
 ***Food Recognition:***  
 Uses a Custom Azure Vision image classification Model under the Food Domain (custom trained with 1000+ images from the Food 101 database) to identify food items from an input image.
-
-![img.png](img.png)
-
+<p align=center>
+<img src="img.png" width = 500>
+</p>
 ***Smart Food Mapping:***  
 Maps predicted food labels to real-world entries using the USDA FoodData Central API.
 

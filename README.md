@@ -56,7 +56,3 @@ OpenCV / PIL for image handling
 
 Most calorie trackers rely on manual input, which is time-consuming and inaccurate. This project automates that process by combining computer vision with real nutritional datasets, making food tracking faster and more intuitive.
 
-
-Mobile app integration
-
-Personalized dietary recommendations

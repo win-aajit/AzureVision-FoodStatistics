@@ -36,7 +36,7 @@ Seamlessly connects with external food databases for scalable, real-world applic
 
 4. Nutritional data is retrieved and parsed
 
-5. Key metrics are displayed in a structured format
+5. Key metrics are displayed in a structured format. Top 20 most likely food categories --> USDA Food Statistics of Most Likely Food
 
 <p align=center>
 <img src="img2.png" width = 200>
